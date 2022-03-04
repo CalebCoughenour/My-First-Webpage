@@ -12,9 +12,11 @@ h2 {
 
 p {
   font-family: sans-serif;
+  font-style: oblique;
 }
 
 ul {
   font-size: 20px;
   line-height: 30px;
+
 }
