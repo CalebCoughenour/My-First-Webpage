@@ -1,5 +1,11 @@
 h1 {
   text-align: center;
+  color: darkred;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+  text-align: center;
   color: firebrick;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
