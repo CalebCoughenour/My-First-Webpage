@@ -9,3 +9,9 @@ h2 {
   font-style: normal;
   text-align: center;
 }
+
+p {
+  color: indigo;
+  font-size: large;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
