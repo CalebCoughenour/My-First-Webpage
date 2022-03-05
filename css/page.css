@@ -12,7 +12,11 @@ h2 {
 
 p {
   line-height: 20px;
-  font-size: larger;
-  font-weight: 500;
+  font-size: large;
   font-family:'Times New Roman', Times, serif;
+}
+
+ul {
+  color: blue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
